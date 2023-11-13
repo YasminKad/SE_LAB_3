@@ -4,7 +4,7 @@
   
 </p>
 
-![img.png](img/rectangle.png)
+![img.png](img/Rectangle.png)
 ![img.png](img/square-test.png)
 
 <h3>سوال ۱</h3>
