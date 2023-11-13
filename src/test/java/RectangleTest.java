@@ -18,7 +18,9 @@ public class RectangleTest {
 
     @Test
     public void testGetSetWidth() {
-
+        Rectangle rectangle = new Rectangle(3, 4);
+        rectangle.setWidth(6);
+        assertEquals(6, rectangle.getWidth());
     }
 }
 
