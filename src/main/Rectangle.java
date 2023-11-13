@@ -1,4 +1,4 @@
-package main.java.org.example;
+package main;
 
 public class Rectangle {
     private int height;

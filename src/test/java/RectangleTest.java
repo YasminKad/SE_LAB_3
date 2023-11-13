@@ -1,6 +1,6 @@
 package test.java;
 
-import main.java.org.example.Rectangle;
+import main.Rectangle;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
