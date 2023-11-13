@@ -3,15 +3,7 @@
 <p></p>
 <h3>سوال ۲</h3>
 <p>در فرایند ایجاد نرم افزار مراحل و درجات مختلفی از آزمون نرم افزار وجود دارد که آن ها را به ترتیبی ریزدانگی تا درشت‌دانگی نام خواهیم برد:
-Unite Testing
-Integration Testing
-System Testing
-Acceptance Testing
-Regression Testing
-Smoke Testing
-Performance Testing
-Security Testing
-Usability Testing
+Unite Testing - Integration Testing - System Testing - Acceptance Testing - Regression Testing - Smoke Testing - Performance Testing - Security Testing - Usability Testing
 </p>
 <h3>سوال ۳</h3>
 <p>خیر. همه تست‌ها توسط مهندسین نرم‌افزار طراحی و اجرا نمی‌شود. افراد دیگری هم در به وجود آوردن تست‌ها نقش دارند برای مثال  manual testers و کارشناسان QA , test automation engineers, performance testers و usability testers ه, همه این آدم‌ها در کنار هم تست‌ها را به وجود می ‌اورند و هر کدام از یک جنبه نرم‌افزار نهایی را بررسی می‌کنند.</p>
