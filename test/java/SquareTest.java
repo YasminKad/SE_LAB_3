@@ -10,6 +10,8 @@ public class SquareTest {
 
     @Test
     public void testGetSetSide() {
-
+        Square square = new Square(5);
+        square.setSide(7);
+        assertEquals(7, square.getSide());
     }
 }
