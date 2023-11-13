@@ -10,9 +10,15 @@ public class RectangleTest {
         assertEquals(12, rectangle.calculateArea());
     }
     @Test
-    public void testGetSetHeight() {}
+    public void testGetSetHeight() {
+        Rectangle rectangle = new Rectangle(3, 4);
+        rectangle.setHeight(5);
+        assertEquals(5, rectangle.getHeight());
+    }
 
     @Test
     public void testGetSetWidth() {
+
+    }
 }
 
